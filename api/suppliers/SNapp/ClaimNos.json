@@ -1,0 +1,27 @@
+{
+  "__metadata": {
+    "id": "http://*:*/z_retail_app_alias/ClaimNumbersSet(ClaimType='DEL',Customer='200330')",
+    "uri": "http://*:*/z_retail_app_alias/ClaimNumbersSet(ClaimType='DEL',Customer='200330')",
+    "type": "z_retailer_mobile_app_srv.ClaimNumbers"
+  },
+  "ClaimNos": [
+    {
+      "CLAIM_REFERENCE": "8001775277",
+      "CLAIM_DATE": "2019-05-27"
+    },
+    {
+      "CLAIM_REFERENCE": "8001167348",
+      "CLAIM_DATE": "2019-05-16"
+    },
+    {
+      "CLAIM_REFERENCE": "8001786046",
+      "CLAIM_DATE": "2019-05-11"
+    },
+    {
+      "CLAIM_REFERENCE": "8001692589",
+      "CLAIM_DATE": "2019-05-03"
+    }
+  ],
+  "ClaimType": "DEL",
+  "Customer": "200330"
+}

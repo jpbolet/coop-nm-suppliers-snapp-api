@@ -1,0 +1,201 @@
+{
+  "__metadata": {
+    "id": "http://*:*/z_retail_app_alias/CreditSet(Customer='200330',Date='2019-06-18')",
+    "uri": "http://*:*/z_retail_app_alias/CreditSet(Customer='200330',Date='2019-06-18')",
+    "type": "z_retailer_mobile_app_srv.Credit"
+  },
+  "Customer": "200330",
+  "Date": "2019-06-18",
+  "CreditItems": [
+    {
+      "MATNR": "000000000002046055",
+      "CREDITED_QTY": 9,
+      "NET_VALUE": 6.97,
+      "ITEM_TYPE": "NW",
+      "TITLE": "DAILY EXPRESS      (SAT)",
+      "ISSUE": " 15JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000002066055",
+      "CREDITED_QTY": 2,
+      "NET_VALUE": 1.54,
+      "ITEM_TYPE": "NW",
+      "TITLE": "DAILY MAIL         (SAT)",
+      "ISSUE": " 15JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000002086055",
+      "CREDITED_QTY": 4,
+      "NET_VALUE": 4.15,
+      "ITEM_TYPE": "NW",
+      "TITLE": "DAILY MIRROR       (SAT)",
+      "ISSUE": " 15JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000021061878",
+      "CREDITED_QTY": 1,
+      "NET_VALUE": 0.87,
+      "ITEM_TYPE": "NW",
+      "TITLE": "DAILY STAR SUNDAY",
+      "ISSUE": " 16JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000002116055",
+      "CREDITED_QTY": 4,
+      "NET_VALUE": 7.78,
+      "ITEM_TYPE": "NW",
+      "TITLE": "DAILY TELEGRAPH    (SAT)",
+      "ISSUE": " 15JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000002226055",
+      "CREDITED_QTY": 2,
+      "NET_VALUE": 4.95,
+      "ITEM_TYPE": "NW",
+      "TITLE": "GUARDIAN           (SAT)",
+      "ISSUE": " 15JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000060918424",
+      "CREDITED_QTY": 1,
+      "NET_VALUE": 0.78,
+      "ITEM_TYPE": "NW",
+      "TITLE": "I WEEKEND          (SAT)",
+      "ISSUE": " 15JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000002972056",
+      "CREDITED_QTY": 3,
+      "NET_VALUE": 4.21,
+      "ITEM_TYPE": "NW",
+      "TITLE": "MAIL ON SUNDAY",
+      "ISSUE": " 16JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000049566568",
+      "CREDITED_QTY": 13,
+      "NET_VALUE": 9.05,
+      "ITEM_TYPE": "NW",
+      "TITLE": "NOTT EVE POST FIRST  (SAT)",
+      "ISSUE": " 15JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000002974056",
+      "CREDITED_QTY": 6,
+      "NET_VALUE": 14.38,
+      "ITEM_TYPE": "NW",
+      "TITLE": "OBSERVER",
+      "ISSUE": " 16JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000002706055",
+      "CREDITED_QTY": 2,
+      "NET_VALUE": 5.02,
+      "ITEM_TYPE": "NW",
+      "TITLE": "RACING POST        (SAT)",
+      "ISSUE": " 15JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000002942056",
+      "CREDITED_QTY": 1,
+      "NET_VALUE": 2.51,
+      "ITEM_TYPE": "NW",
+      "TITLE": "RACING POST ON SUNDAY",
+      "ISSUE": " 16JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000002486055",
+      "CREDITED_QTY": 11,
+      "NET_VALUE": 6.26,
+      "ITEM_TYPE": "NW",
+      "TITLE": "SUN                (SAT)",
+      "ISSUE": " 15JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000064326383",
+      "CREDITED_QTY": 8,
+      "NET_VALUE": 7.42,
+      "ITEM_TYPE": "NW",
+      "TITLE": "SUN                (SUN)",
+      "ISSUE": " 16JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000002975056",
+      "CREDITED_QTY": 7,
+      "NET_VALUE": 8.75,
+      "ITEM_TYPE": "NW",
+      "TITLE": "SUNDAY EXPRESS",
+      "ISSUE": " 16JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000002979056",
+      "CREDITED_QTY": 2,
+      "NET_VALUE": 2.7,
+      "ITEM_TYPE": "NW",
+      "TITLE": "SUNDAY MIRROR",
+      "ISSUE": " 16JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000002981056",
+      "CREDITED_QTY": 1,
+      "NET_VALUE": 1.35,
+      "ITEM_TYPE": "NW",
+      "TITLE": "SUNDAY PEOPLE",
+      "ISSUE": " 16JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000002986056",
+      "CREDITED_QTY": 2,
+      "NET_VALUE": 3.41,
+      "ITEM_TYPE": "NW",
+      "TITLE": "SUNDAY TELEGRAPH",
+      "ISSUE": " 16JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    },
+    {
+      "MATNR": "000000000002987056",
+      "CREDITED_QTY": 1,
+      "NET_VALUE": 2.11,
+      "ITEM_TYPE": "NW",
+      "TITLE": "SUNDAY TIMES",
+      "ISSUE": " 16JUN",
+      "REJECT_REASON": "",
+      "RECHARGE_FLAG": ""
+    }
+  ]
+}

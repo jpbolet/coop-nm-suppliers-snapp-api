@@ -1,0 +1,265 @@
+{
+	"info": {
+		"_postman_id": "e149b2ee-6c15-48f4-8d70-c31536fd629e",
+		"name": "Co-op SNapp",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://www.snapponline.co.uk/retapp/DeliverySet(Customer='111111',Date='2019-06-12')",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://www.snapponline.co.uk/retapp/DeliverySet(Customer='111111',Date='2019-06-12')",
+					"protocol": "https",
+					"host": [
+						"www",
+						"snapponline",
+						"co",
+						"uk"
+					],
+					"path": [
+						"retapp",
+						"DeliverySet(Customer='111111',Date='2019-06-12')"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.snapponline.co.uk/retapp/CreditSet(Customer='111111',Date='2019-06-12')",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://www.snapponline.co.uk/retapp/CreditSet(Customer='111111',Date='2019-06-12')",
+					"protocol": "https",
+					"host": [
+						"www",
+						"snapponline",
+						"co",
+						"uk"
+					],
+					"path": [
+						"retapp",
+						"CreditSet(Customer='111111',Date='2019-06-12')"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.snapponline.co.uk/retapp/ClaimCutOffSet(Date='2019-06-12')",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://www.snapponline.co.uk/retapp/ClaimCutOffSet(Date='2019-06-12')",
+					"protocol": "https",
+					"host": [
+						"www",
+						"snapponline",
+						"co",
+						"uk"
+					],
+					"path": [
+						"retapp",
+						"ClaimCutOffSet(Date='2019-06-12')"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.snapponline.co.uk/retapp/AlterationHistorySet(Customer='111111')",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://www.snapponline.co.uk/retapp/AlterationHistorySet(Customer='111111')",
+					"protocol": "https",
+					"host": [
+						"www",
+						"snapponline",
+						"co",
+						"uk"
+					],
+					"path": [
+						"retapp",
+						"AlterationHistorySet(Customer='111111')"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.snapponline.co.uk/retapp/CustomerMessagesSet(Customer='111111',MessageNo='0')",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://www.snapponline.co.uk/retapp/CustomerMessagesSet(Customer='111111',MessageNo='0')",
+					"protocol": "https",
+					"host": [
+						"www",
+						"snapponline",
+						"co",
+						"uk"
+					],
+					"path": [
+						"retapp",
+						"CustomerMessagesSet(Customer='111111',MessageNo='0')"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.snapponline.co.uk/retapp/ClaimNumbersSet(Customer='111111',ClaimType='DEL')",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://www.snapponline.co.uk/retapp/ClaimNumbersSet(Customer='111111',ClaimType='DEL')",
+					"protocol": "https",
+					"host": [
+						"www",
+						"snapponline",
+						"co",
+						"uk"
+					],
+					"path": [
+						"retapp",
+						"ClaimNumbersSet(Customer='111111',ClaimType='DEL')"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.snapponline.co.uk/retapp/RecallSet(Customer='111111',Date='2019-06-12')",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://www.snapponline.co.uk/retapp/RecallSet(Customer='111111',Date='2019-06-12')",
+					"protocol": "https",
+					"host": [
+						"www",
+						"snapponline",
+						"co",
+						"uk"
+					],
+					"path": [
+						"retapp",
+						"RecallSet(Customer='111111',Date='2019-06-12')"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.snapponline.co.uk/retapp/MyProfileSet(Customer='111111')",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://www.snapponline.co.uk/retapp/MyProfileSet(Customer='111111')",
+					"protocol": "https",
+					"host": [
+						"www",
+						"snapponline",
+						"co",
+						"uk"
+					],
+					"path": [
+						"retapp",
+						"MyProfileSet(Customer='111111')"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.snapponline.co.uk/retapp/PushTokensSet()",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"d\":{\"Customer\":\"111111\",\"TokenId\":\"SNAPP_DUMMY_TOKEN\",\"DeviceType\":\"W\",\"PreferedLanguage\":\"EN\"}}"
+				},
+				"url": {
+					"raw": "https://www.snapponline.co.uk/retapp/PushTokensSet()",
+					"protocol": "https",
+					"host": [
+						"www",
+						"snapponline",
+						"co",
+						"uk"
+					],
+					"path": [
+						"retapp",
+						"PushTokensSet()"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "basic",
+		"basic": [
+			{
+				"key": "password",
+				"value": "pa$$word",
+				"type": "string"
+			},
+			{
+				"key": "username",
+				"value": "111111",
+				"type": "string"
+			}
+		]
+	}
+}

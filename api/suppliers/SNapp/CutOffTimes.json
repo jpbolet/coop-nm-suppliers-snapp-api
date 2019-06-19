@@ -1,0 +1,16 @@
+{
+  "__metadata": {
+    "id": "http://*:*/z_retail_app_alias/ClaimCutOffSet('2019-06-14')",
+    "uri": "http://*:*/z_retail_app_alias/ClaimCutOffSet('2019-06-14')",
+    "type": "z_retailer_mobile_app_srv.ClaimCutOff"
+  },
+  "Date": "2019-06-14",
+  "CutOffTimes": [
+    {
+      "NEWS_CUTOFF_TIME": "10:00:00",
+      "MAGS_CUTOFF_TIME": "15:00:00",
+      "PTWK_CUTOFF_TIME": "15:00:00",
+      "OTHS_CUTOFF_TIME": "15:00:00"
+    }
+  ]
+}

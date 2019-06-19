@@ -1,0 +1,20 @@
+{
+  "error": {
+    "code": "SY/530",
+    "message": {
+      "lang": "en",
+      "value": "RFC call ended with \"Communication Failure\" exception (An exception with the type CX_SY_DYNAMIC_OSQL_SEMANTICS occurred, but was neither handled locally, nor declared in a RAISING clause)."
+    },
+    "innererror": {
+      "transactionid": "07A513A56BA300E0E005CAB3F58F6CEE",
+      "errordetails": [
+        {
+          "code": "/IWBEP/CX_SD_GEN_DPC_TECH",
+          "message": "RFC call ended with \"Communication Failure\" exception (An exception with the type CX_SY_DYNAMIC_OSQL_SEMANTICS occurred, but was neither handled locally, nor declared in a RAISING clause).",
+          "propertyref": "",
+          "severity": "error"
+        }
+      ]
+    }
+  }
+}

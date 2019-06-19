@@ -1,0 +1,830 @@
+{
+  "__metadata": {
+    "id": "http://*:*/z_retail_app_alias/MyProfileSet('200330')",
+    "uri": "http://*:*/z_retail_app_alias/MyProfileSet('200330')",
+    "type": "z_retailer_mobile_app_srv.MyProfile"
+  },
+  "ProfileData": [
+    {
+      "FIELD_LABEL": "NAME",
+      "HEADING": "My Store",
+      "LONG_LABEL": "Store name",
+      "SAP_VALUE": "CO-OPERATIVE GROUP LTD MCU 020462",
+      "TYPE": "INFO",
+      "LENGTH": "35",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "ADDRESS1",
+      "HEADING": "My Store",
+      "LONG_LABEL": "Store owner",
+      "SAP_VALUE": "936 TO 947 WOODBOROUG RD",
+      "TYPE": "TEXT",
+      "LENGTH": "35",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "ADDRESS2",
+      "HEADING": "My Store",
+      "LONG_LABEL": "Address 1",
+      "SAP_VALUE": "MAPPERLEY",
+      "TYPE": "TEXT",
+      "LENGTH": "35",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "ADDRESS3",
+      "HEADING": "My Store",
+      "LONG_LABEL": "Address 2",
+      "SAP_VALUE": "NOTTINGHAM",
+      "TYPE": "TEXT",
+      "LENGTH": "35",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "POSTCODE",
+      "HEADING": "My Store",
+      "LONG_LABEL": "Postcode",
+      "SAP_VALUE": "NG 3 5QS",
+      "TYPE": "INFO",
+      "LENGTH": "10",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "TELEPHONE NO.",
+      "HEADING": "My Store",
+      "LONG_LABEL": "Telephone",
+      "SAP_VALUE": "0115 9604671",
+      "TYPE": "NUMERIC",
+      "LENGTH": "15",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "MOBILE NO.",
+      "HEADING": "My Store",
+      "LONG_LABEL": "Mobile",
+      "SAP_VALUE": "",
+      "TYPE": "NUMERIC",
+      "LENGTH": "30",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "EMAIL ADDRESS",
+      "HEADING": "My Store",
+      "LONG_LABEL": "Email",
+      "SAP_VALUE": "",
+      "TYPE": "TEXT",
+      "LENGTH": "60",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "WEBSITE",
+      "HEADING": "My Store",
+      "LONG_LABEL": "Website",
+      "SAP_VALUE": "",
+      "TYPE": "TEXT",
+      "LENGTH": "60",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "STORE CONTACT",
+      "HEADING": "My Store",
+      "LONG_LABEL": "Contact name",
+      "SAP_VALUE": "",
+      "TYPE": "TEXT",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SECURE SITE",
+      "HEADING": "My Store",
+      "LONG_LABEL": "Secure delivery point?",
+      "SAP_VALUE": "",
+      "TYPE": "CHECKBOX",
+      "LENGTH": "1",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "MON OPEN",
+      "HEADING": "My Opening Times",
+      "LONG_LABEL": "Monday open",
+      "SAP_VALUE": "070000",
+      "TYPE": "TIME",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "HHMMSS",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "MON CLOSE",
+      "HEADING": "My Opening Times",
+      "LONG_LABEL": "Monday close",
+      "SAP_VALUE": "000000",
+      "TYPE": "TIME",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "HHMMSS",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "TUE OPEN",
+      "HEADING": "My Opening Times",
+      "LONG_LABEL": "Tuesday open",
+      "SAP_VALUE": "070000",
+      "TYPE": "TIME",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "HHMMSS",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "TUE CLOSE",
+      "HEADING": "My Opening Times",
+      "LONG_LABEL": "Tuesday close",
+      "SAP_VALUE": "000000",
+      "TYPE": "TIME",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "HHMMSS",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "WED OPEN",
+      "HEADING": "My Opening Times",
+      "LONG_LABEL": "Wednesday open",
+      "SAP_VALUE": "070000",
+      "TYPE": "TIME",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "HHMMSS",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "WED CLOSE",
+      "HEADING": "My Opening Times",
+      "LONG_LABEL": "Wednesday close",
+      "SAP_VALUE": "000000",
+      "TYPE": "TIME",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "HHMMSS",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "THU OPEN",
+      "HEADING": "My Opening Times",
+      "LONG_LABEL": "Thursday open",
+      "SAP_VALUE": "070000",
+      "TYPE": "TIME",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "HHMMSS",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "THU CLOSE",
+      "HEADING": "My Opening Times",
+      "LONG_LABEL": "Thursday close",
+      "SAP_VALUE": "000000",
+      "TYPE": "TIME",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "HHMMSS",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "FRI OPEN",
+      "HEADING": "My Opening Times",
+      "LONG_LABEL": "Friday open",
+      "SAP_VALUE": "070000",
+      "TYPE": "TIME",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "HHMMSS",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "FRI CLOSE",
+      "HEADING": "My Opening Times",
+      "LONG_LABEL": "Friday close",
+      "SAP_VALUE": "000000",
+      "TYPE": "TIME",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "HHMMSS",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SAT OPEN",
+      "HEADING": "My Opening Times",
+      "LONG_LABEL": "Saturday open",
+      "SAP_VALUE": "070000",
+      "TYPE": "TIME",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "HHMMSS",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SAT CLOSE",
+      "HEADING": "My Opening Times",
+      "LONG_LABEL": "Saturday close",
+      "SAP_VALUE": "000000",
+      "TYPE": "TIME",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "HHMMSS",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SUN OPEN",
+      "HEADING": "My Opening Times",
+      "LONG_LABEL": "Sunday open",
+      "SAP_VALUE": "100000",
+      "TYPE": "TIME",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "HHMMSS",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SUN CLOSE",
+      "HEADING": "My Opening Times",
+      "LONG_LABEL": "Sunday close",
+      "SAP_VALUE": "000000",
+      "TYPE": "TIME",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "HHMMSS",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "HND CUSTOMER",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Hnd rounds",
+      "SAP_VALUE": "",
+      "TYPE": "CHECKBOX",
+      "LENGTH": "1",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "NUM HND DELIVERIES",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "No. Hnd rounds",
+      "SAP_VALUE": "0",
+      "TYPE": "NUMERIC",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "NUM HND CUSTS",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "No. Hnd customers",
+      "SAP_VALUE": "0",
+      "TYPE": "NUMERIC",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "EPOS SYSTEM",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Epos enabled system",
+      "SAP_VALUE": "",
+      "TYPE": "TEXT",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SUBRET",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Sub retail to other stores?",
+      "SAP_VALUE": "",
+      "TYPE": "CHECKBOX",
+      "LENGTH": "1",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "HOW MANY STORES",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Stores owned/ operated?",
+      "SAP_VALUE": "0",
+      "TYPE": "NUMERIC",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "NUMBER OF EMPLOYEES",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Number of staff",
+      "SAP_VALUE": "0",
+      "TYPE": "NUMERIC",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "None",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "Alfred Jones",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "Appleby Westwood",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "Budgen",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "CDC Buying group",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "Costcutter",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "Gillets",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "Happy Shopper",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "James Hall",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "Londis",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "Mace",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "MRH Retail",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "Murco",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "Spar",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "Tates",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SYMBOL GROUP NAME",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Symbol group",
+      "SAP_VALUE": "Other",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "20",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "COFFEE SUPPLIER",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Coffee supplier?",
+      "SAP_VALUE": "",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "COFFEE SUPPLIER",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Coffee supplier?",
+      "SAP_VALUE": "None",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "COFFEE SUPPLIER",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Coffee supplier?",
+      "SAP_VALUE": "Costa",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "COFFEE SUPPLIER",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Coffee supplier?",
+      "SAP_VALUE": "Tchibo",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "COFFEE SUPPLIER",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Coffee supplier?",
+      "SAP_VALUE": "Nescafe and Go",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "COFFEE SUPPLIER",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Coffee supplier?",
+      "SAP_VALUE": "Rijo",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "COFFEE SUPPLIER",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Coffee supplier?",
+      "SAP_VALUE": "Jack's Beans",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "COFFEE SUPPLIER",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Coffee supplier?",
+      "SAP_VALUE": "Other",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "HOW MANY CUPS",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Cups per day",
+      "SAP_VALUE": "0",
+      "TYPE": "NUMERIC",
+      "LENGTH": "6",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "SELL HOT FOOD",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Sell hot food?",
+      "SAP_VALUE": "",
+      "TYPE": "CHECKBOX",
+      "LENGTH": "1",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "PARCEL VENDOR",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Parcel collection?",
+      "SAP_VALUE": "",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "PARCEL VENDOR",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Parcel collection?",
+      "SAP_VALUE": "None",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "PARCEL VENDOR",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Parcel collection?",
+      "SAP_VALUE": "Collect+",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "PARCEL VENDOR",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Parcel collection?",
+      "SAP_VALUE": "Post Office",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "PARCEL VENDOR",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Parcel collection?",
+      "SAP_VALUE": "My Hermes",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "PARCEL VENDOR",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Parcel collection?",
+      "SAP_VALUE": "UPS",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "PARCEL VENDOR",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Parcel collection?",
+      "SAP_VALUE": "Pass my Parcel",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "PARCEL VENDOR",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Parcel collection?",
+      "SAP_VALUE": "Other",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "BROADBAND",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Broadband?",
+      "SAP_VALUE": "",
+      "TYPE": "CHECKBOX",
+      "LENGTH": "1",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "WIFI",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Wifi?",
+      "SAP_VALUE": "",
+      "TYPE": "WIFI?",
+      "LENGTH": "CHEC",
+      "FIELD_FORMAT": "1",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "LOTTERY TERMINAL",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Lottery?",
+      "SAP_VALUE": "",
+      "TYPE": "CHECKBOX",
+      "LENGTH": "1",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "PAYPOINT",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Paypoint/payzone?",
+      "SAP_VALUE": "",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "PAYPOINT",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Paypoint/payzone?",
+      "SAP_VALUE": "None",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "PAYPOINT",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Paypoint/payzone?",
+      "SAP_VALUE": "Paypoint",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "PAYPOINT",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Paypoint/payzone?",
+      "SAP_VALUE": "Payzone",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "PAYPOINT",
+      "HEADING": "My Business Information",
+      "LONG_LABEL": "Paypoint/payzone?",
+      "SAP_VALUE": "Other",
+      "TYPE": "COMBOBOX",
+      "LENGTH": "40",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "RDT SUNDAY",
+      "HEADING": "My Required delivery times",
+      "LONG_LABEL": "RDT Sunday",
+      "SAP_VALUE": "07:30 AM",
+      "TYPE": "INFO",
+      "LENGTH": "8",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "RDT MONDAY",
+      "HEADING": "My Required delivery times",
+      "LONG_LABEL": "RDT Monday",
+      "SAP_VALUE": "07:30 AM",
+      "TYPE": "INFO",
+      "LENGTH": "8",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "RDT TUESDAY",
+      "HEADING": "My Required delivery times",
+      "LONG_LABEL": "RDT Tuesday",
+      "SAP_VALUE": "07:30 AM",
+      "TYPE": "INFO",
+      "LENGTH": "8",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "RDT WEDNESDAY",
+      "HEADING": "My Required delivery times",
+      "LONG_LABEL": "RDT Wednesday",
+      "SAP_VALUE": "07:30 AM",
+      "TYPE": "INFO",
+      "LENGTH": "8",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "RDT THURSDAY",
+      "HEADING": "My Required delivery times",
+      "LONG_LABEL": "RDT Thursday",
+      "SAP_VALUE": "07:30 AM",
+      "TYPE": "INFO",
+      "LENGTH": "8",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "RDT FRIDAY",
+      "HEADING": "My Required delivery times",
+      "LONG_LABEL": "RDT Friday",
+      "SAP_VALUE": "07:30 AM",
+      "TYPE": "INFO",
+      "LENGTH": "8",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    },
+    {
+      "FIELD_LABEL": "RDT SATURDAY",
+      "HEADING": "My Required delivery times",
+      "LONG_LABEL": "RDT Saturday",
+      "SAP_VALUE": "07:30 AM",
+      "TYPE": "INFO",
+      "LENGTH": "8",
+      "FIELD_FORMAT": "",
+      "MANDATORY": "X"
+    }
+  ],
+  "Customer": "200330"
+}

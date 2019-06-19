@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entry xml:base="http://*:*/z_retail_app_alias/" xmlns="http://www.w3.org/2005/Atom" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+    <id>http://*:*/z_retail_app_alias/ClaimNumbersSet(ClaimType='DEL',Customer='200330')</id>
+    <title type="text">ClaimNumbersSet(ClaimType='DEL',Customer='200330')</title>
+    <updated>2019-06-12T15:02:47Z</updated>
+    <category term="z_retailer_mobile_app_srv.ClaimNumbers" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link href="ClaimNumbersSet(ClaimType='DEL',Customer='200330')" rel="self" title="ClaimNumbers"/>
+    <content type="application/xml">
+        <m:properties>
+            <d:ClaimNos>[{"CLAIM_REFERENCE":"8001775277","CLAIM_DATE":"2019-05-27"},{"CLAIM_REFERENCE":"8001167348","CLAIM_DATE":"2019-05-16"},{"CLAIM_REFERENCE":"8001786046","CLAIM_DATE":"2019-05-11"},{"CLAIM_REFERENCE":"8001692589","CLAIM_DATE":"2019-05-03"}]</d:ClaimNos>
+            <d:ClaimType>DEL</d:ClaimType>
+            <d:Customer>200330</d:Customer>
+        </m:properties>
+    </content>
+</entry>

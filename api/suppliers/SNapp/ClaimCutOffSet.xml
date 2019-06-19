@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entry xml:base="http://*:*/z_retail_app_alias/" xmlns="http://www.w3.org/2005/Atom" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+    <id>http://*:*/z_retail_app_alias/ClaimCutOffSet('2019-06-12')</id>
+    <title type="text">ClaimCutOffSet('2019-06-12')</title>
+    <updated>2019-06-12T14:56:52Z</updated>
+    <category term="z_retailer_mobile_app_srv.ClaimCutOff" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link href="ClaimCutOffSet('2019-06-12')" rel="self" title="ClaimCutOff"/>
+    <content type="application/xml">
+        <m:properties>
+            <d:Date>2019-06-12</d:Date>
+            <d:CutOffTimes>[{"NEWS_CUTOFF_TIME":"10:00:00","MAGS_CUTOFF_TIME":"15:00:00","PTWK_CUTOFF_TIME":"15:00:00","OTHS_CUTOFF_TIME":"15:00:00"}]</d:CutOffTimes>
+        </m:properties>
+    </content>
+</entry>

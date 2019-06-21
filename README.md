@@ -2,6 +2,8 @@
 
 SNapp data API, driven off real SNapp website API endpoints
 
+Copy .env.sample to .env and edit the store SNapp credentials
+
 Requires a MongoDB instance on localhost:27017  
 Install Node.js  
 Install npm  
